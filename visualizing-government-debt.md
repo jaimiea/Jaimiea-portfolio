@@ -11,9 +11,11 @@ For this example, we used a heat map to visualize each OECD country's government
 <script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/jaimiea/views/VisualizingGovtDebt/Sheet1' width='1396' height='665' hide-tabs toolbar='bottom' ></tableau-viz>
 
 # 2021 Government Debt by OECD Country 
+Here we filtered the data to focus on the annual government-debt-to-GDP ratio for each OECD country. The countries with the highest % are highlighted in red while countries with lower percentages are in green.
 
 <script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/jaimiea/views/VisualizingGovtDebt/Sheet2' width='1396' height='665' hide-tabs toolbar='bottom' ></tableau-viz>
 
 # U.S. Debt Versus the OECD Average 
+Based on available data from 2007-2021, we wanted to compare how the U.S. debt-to-GDP % compared to the annual average among all OECD countries.
 
 <script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/jaimiea/views/VisualizingGovtDebt/Sheet3' width='1396' height='665' hide-tabs toolbar='bottom' ></tableau-viz>
