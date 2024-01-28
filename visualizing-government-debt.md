@@ -3,3 +3,7 @@
 # 2021 General Government Debt
 
 <iframe src="https://data.oecd.org/chart/7klb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7klb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
+# 1995-2021 Government Debt by Country
+
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/jaimiea/views/VisualizingGovtDebt/Sheet1' width='1396' height='665' hide-tabs toolbar='bottom' ></tableau-viz>
