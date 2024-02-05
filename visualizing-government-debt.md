@@ -49,5 +49,7 @@ Based on available data from 2007-2021, we compared the U.S. debt-to-GDP ratio w
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>                  
 
+<br/>
+
 For the second graph, I wanted to tell a story about the U.S. debt-to-GDP ratio compared to the average for all OECD countries. Since there was only data for select years, I filtered the graph to only show data for 2007-2021. Here I utilized a circle view graph to show the comparison. I color-coded the blue circles to represent the U.S. and the orange circles to represent the OECD average. I also included a color legend. Since there were only data points for two variables, I focused more on contrast over assigning meaning to specific colors. Then I added labels to show the exact value for each data point. I think the circle graph worked well for this comparison since it makes it easy for the audience to determine that the U.S. debt is consistently higher than the average for the years 2007-2021. The graph also informs users that the U.S. debt-to-GDP ratio seems to consistently increase over time.
                                                                                                                                                   
