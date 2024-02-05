@@ -31,6 +31,7 @@ Here we filtered the data to focus on the 2021 annual government-debt-to-GDP rat
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>                
 
+<br/>
 
 I attempted to make two graphs using the provided data. For the first graph, I used a treemap to display the countries with the highest debt to the lowest, going from left to right. I used a red to-green color scale to represent the debt range and made my center value 100. I wanted red to represent the countries with high debt and green for countries with lower debt. I chose red to represent higher debt because red is often associated with a loss or something negative while green is often used to represent profit or a positive gain. I like that the treemap allows you to visualize the values by square size and color, and allows enough space for both the country and value labels. This enables users to see what data point corresponds to which country without having to scroll over each square.   
 
@@ -47,6 +48,7 @@ Based on available data from 2007-2021, we compared the U.S. debt-to-GDP ratio w
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>                   
 
+<br/>
 
 For the second graph, I wanted to tell a story about the U.S. debt-to-GDP ratio compared to the average for all OECD countries. Since there was only data for select years, I filtered the graph to only show data for 2007-2021. Here I utilized a circle view graph to show the comparison. I color-coded the blue circles to represent the U.S. and the orange circles to represent the OECD average. I also included a color legend. Since there were only data points for two variables, I focused more on contrast over assigning meaning to specific colors. Then I added labels to show the exact value for each data point. I think the circle graph worked well for this comparison since it makes it easy for the audience to determine that the U.S. debt is consistently higher than the average for the years 2007-2021. The graph also informs users that the U.S. debt-to-GDP ratio seems to consistently increase over time.
                                                                                                                                                   
