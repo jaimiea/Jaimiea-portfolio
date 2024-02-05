@@ -2,6 +2,6 @@
 
 # Makeover Monday
 Graph selected for the redesign: [2022/W35: Top 10 Countries by Military Spending Summary](https://data.world/makeovermonday/2022w35/workspace/project-summary?agentid=makeovermonday&datasetid=2022w35)
-Original article: [VisualCapitalist] (https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
+Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
 
 
