@@ -3,7 +3,7 @@
 # 2021 General Government Debt
 Here we took the OECD website's original bar graph for general government debt by country. The graph has been filtered to show data for the year 2021. The general government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance.
 
-<iframe src="https://data.oecd.org/chart/7klb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7klb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+[<iframe src="https://data.oecd.org/chart/7klb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7klb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>](https://public.tableau.com/views/VisualizingGovtDebt/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # 1995-2021 Government Debt by OECD Country
 For this example, we used a heat map to visualize each OECD country's government debt as a % of its annual GDP. The map displays data from 1995-2021.
