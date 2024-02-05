@@ -25,6 +25,7 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 I attempted to make two graphs using the provided data. For the first graph, I used a treemap to display the countries with the highest debt to the lowest, going from left to right. I used a red to-green color scale to represent the debt range and made my center value 100. I wanted red to represent the countries with high debt and green for countries with lower debt. I chose red to represent higher debt because red is often associated with a loss or something negative while green is often used to represent profit or a positive gain. I like that the treemap allows you to visualize the values by square size and color, and allows enough space for both the country and value labels. This enables users to see what data point corresponds to which country without having to scroll over each square.   
 
 
