@@ -5,7 +5,7 @@ Graph selected for the redesign: [2022/W35: Top 10 Countries by Military Spendin
 
 Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
 
-![Screenshot of original graph] (https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
+![Screenshot of original graph](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
 
 I chose this visualization because I liked the topic and aesthetics of the original visualization. Similar to the OECD graphs generalizing government debt I wanted to make a graph that offered comparative data for the U.S. and other countries. 
 
