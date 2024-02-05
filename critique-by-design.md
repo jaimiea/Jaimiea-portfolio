@@ -5,4 +5,4 @@ Graph selected for the redesign: [2022/W35: Top 10 Countries by Military Spendin
 
 Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
 
-![Screenshot of original graph](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
+![Screenshot of original graph] (https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
