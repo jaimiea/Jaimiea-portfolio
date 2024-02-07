@@ -11,17 +11,15 @@ I chose this visualization because I liked the topic and aesthetics of the origi
 
 # Redesign Process
 
-Sketch 1:
+**Sketch 1:**
 
 ![Sketchbook -7](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/80052b3e-0c12-44b2-bc2a-383ace411832)
 
-
-Sketch 2:
+**Sketch 2:**
 
 ![Sketchbook -8](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/3b83947d-74c8-49dc-9326-61717d11ec23)
 
-
-Tableau Graph 1:
+**Tableau Graph 1:**
 
 <div class='tableauPlaceholder' id='viz1707266490001' style='position: relative'><noscript><a href='#'><img alt='Countries with the Highest Military Expenditure  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingMap_17071559518660&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilitarySpendingMap_17071559518660&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingMap_17071559518660&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>
   var divElement = document.getElementById('viz1707266490001');
@@ -32,7 +30,7 @@ Tableau Graph 1:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Tableau Graph 2:
+**Tableau Graph 2:**
 
 <div class='tableauPlaceholder' id='viz1707266534339' style='position: relative'><noscript><a href='#'><img alt='Highest Military Spending Across the Globe  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingMap2&#47;Sheet22&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilitarySpendingMap2&#47;Sheet22' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilitarySpendingMap2&#47;Sheet22&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
@@ -47,8 +45,14 @@ Tableau Graph 2:
 Document your progress as you move forward in your step-by-step process.   
 include any insights you gained from the critique method, and what it led you to think about when considering the redesign.  
 You should talk about how you moved next to the sketches (include sketches)
-any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  (user feedback writeup, avoid identifying info, no full names)
-Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
+any insights you gleaned from your user feedback.  
+
+challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant
+Excel data showed Billons and thoiusands and tableau could not read the values correctly. Needed to change raw data to billions for accurate visualization
 
 # Final Visualization 
 
+Document what you changed based on the user feedback in your redesign.  (user feedback writeup, avoid identifying info, no full names)
+Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
+
+ultimately opted for simple redesign. 
