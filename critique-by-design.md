@@ -17,4 +17,5 @@ You should talk about how you moved next to the sketches (include sketches)
 any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  (user feedback writeup, avoid identifying info, no full names)
 Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
 
-# Final Visualization 
+# Final Visualization ![Sketchbook -8](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/9f5a3c31-6831-467f-8043-01b56c89b288)
+
