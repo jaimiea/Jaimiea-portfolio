@@ -7,7 +7,7 @@ Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top
 
 ![Screenshot of original graph](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
 
-I chose this graph for my redesign because I liked the topic and aesthetics of the original visualization. Like the OECD graphs generalizing government debt I wanted to create a visualization that offered comparative data for the U.S. and other countries. I also liked that the visualization could be targeted at diverse audiences. This allowed me to use the source data to create a graph that could be insightful for audiences interested in topics such as the U.S. military or global economies. The story I wanted to tell highlights the growing cost of global military expenditure.
+I chose this graph for my redesign because I liked the topic and aesthetics of the original visualization. Like the OECD graphs generalizing government debt, I wanted to create a visualization that offered comparative data for the U.S. and other countries. I also liked that the visualization could be targeted at diverse audiences. This allowed me to use the source data to create a graph that could be insightful for audiences interested in topics such as the U.S. military or global economies. The story I wanted to tell highlights the growing cost of global military expenditure.
 
 # Redesign Process
 
@@ -24,8 +24,8 @@ I made a rough draft of a pie graph for my initial redesign. In my critique of t
 For my second sketch, I drew a bar chart with vertical bars. I used a very generic title that informs the audience that the country of focus is the U.S. compared to the rest of the world. I liked that the bar graph also uses the same rectangular shape to make the graph's perceptibility more clear. In this redesign, I used red for the U.S. bar and black for the other nine countries to draw the audience's attention to the U.S. and draw a clear comparison. I also ordered the bars in descending order. 
 
 critiques:
-- **student, early 20s:** This student explained that the bar graph makes it abundantly clear that the U.S. government spends more on its military than any other country in the world. The student also shared that she grew up in a military family and found this topic to be of personal interest. She also stated that this graph could be targeted at a wide-reaching audience or used to comment on a wide variety of news stories and topics. They did recommend changing the title to something that isn't a question. They also advised including a color legend for the chart.
-- **adult, mid-50s:** This individual found the graph the be straightforward and clear. They appreciated the simple design and stated that it was to the point and great for busy readers. They did advise putting country abbreviations for each bar to make it easier to read.
+- **student, early 20s:** This student explained that the bar graph makes it abundantly clear that the U.S. government spends more on its military than any other country in the world. The student shared that she grew up in a military family and found this topic to be of personal interest. She also stated that this graph could be targeted at a wide-reaching audience or used to comment on a wide variety of news stories and topics. They did recommend changing the title to something that isn't a question. They also advised including a color legend for the chart.
+- **adult, mid-50s:** This individual found the graph the be straightforward and clear. They appreciated the simple design and stated that it was to the point and great for busy readers. They stated that this graph seems relevant to anyone who follows politics or is involved with the military. They did advise putting country abbreviations for each bar to make it easier to read.
 
 **Tableau Graph 1:**
 
@@ -43,7 +43,7 @@ critiques:
 
 
 critiques:
-- **student, early 20s:** The student described the map graph to be visually appealing but less clear about its intent. They also stated that the title didn't make it obvious that the U.S. has the highest military expenditure as the other graph did. They recommended increasing the color range if possible since red-green color blindness is pretty common. 
+- **student, early 20s:** The student described the map graph to be visually appealing but less clear about its intent. She explained that the whole country being filled in with color made it more obvious which countries were included on your list. They also stated that the colors referring to dollar expenditure rather than country name in the key felt more informative, and better highlighted where each country fell on the spectrum. However, she felt the title didn't make it obvious that the U.S. had the highest military expenditure as the other graph did. They also recommended increasing the color range if possible since red-green color blindness is pretty common.  
 - **adult, mid 50s:**  
  
 
@@ -62,12 +62,9 @@ critiques:
 
 <br>
 
-Document what you changed based on the user feedback in your redesign
 Insights from user feedback: simple, accessibility when choosing colors, caption, informative or more interesting title 
-challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant
-Excel data showed Billons and thousands and tableau could not read the values correctly. Needed to change raw data to billions for accurate visualization
-Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
+Finally, talk about what your redesigned data visualization shows, what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
 challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant
 Excel data showed Billons and thousands and tableau could not read the values correctly. Needed to change raw data to billions for accurate visualization
 
-ultimately opted for simple redesign. 
+ultimately opted for a simple redesign. 
