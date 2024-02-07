@@ -7,13 +7,15 @@ Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top
 
 ![Screenshot of original graph](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
 
-I chose this visualization because I liked the topic and aesthetics of the original visualization. Similar to the OECD graphs generalizing government debt I wanted to make a graph that offered comparative data for the U.S. and other countries. 
+I chose this graph because I liked the topic and aesthetics of the original visualization. Similar to the OECD graphs generalizing government debt I wanted to create a visualization that offered comparative data for the U.S. and other countries. I also liked that the visualization could be targeted at diverse audiences. This allowed me to use the source data to create a graph that could be insightful for audiences interested in topics such as the U.S. military or global economies. The story I wanted to tell highlights the growing cost of global military expenditure.
 
 # Redesign Process
 
 **Sketch 1:**
 
 ![Sketchbook -7](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/80052b3e-0c12-44b2-bc2a-383ace411832)
+<br>
+I drafted a rough sketch of a pie graph for my initial redesign. In my critique of the original visualization, I discussed how the different shapes make it hard to compare the difference in military expenditure. The original graph also states that the U.S. and China accounted for more than 50% of the global military spending but this was not obvious or accurately depicted. To improve the visualization's truthfulness, I tried to restructure the data using a pie graph. Since the shapes were now the same I thought this would help readers infer a relationship between size and expenditure. 
 
 **Sketch 2:**
 
