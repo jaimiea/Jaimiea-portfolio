@@ -46,7 +46,11 @@ For my second sketch, I drew a bar chart with vertical bars. I used a very gener
 - **student, early 20s:** The student described the map graph to be visually appealing but less clear about its intent. She explained that the whole country being filled in with color made it more obvious which countries were included on the top ten list. They also stated that the colors referring to dollar expenditure rather than country name in the key felt more informative, and better highlighted where each country fell on the spectrum. However, she felt the title didn't make it obvious that the U.S. had the highest military expenditure as the other graph did. They also recommended increasing the color range if possible since red-green color blindness is pretty common.  
 - **adult, mid-50s:** The second user found the map visualization to be informative geographically but not as impactful as the previous draft. They explained that the map took more time to understand and didn't like having to scroll over each country to obtain further information. They also disliked that some of the country titles did not fit into each country on the map. They advised it would be more appealing with a simpler design that could show all the data at one glance. 
  
-
+**Insights from user feedback:**
+- I noticed that both critics preferred a simpler design. They both emphasized perceptibility and intuitiveness over an overly complex design.
+- One important thing I learned from the student feedback was to consider accessibility when choosing colors for my visualization. Her comments on color blindness made me realize I often use red and green to represent a positive or negative trend in my graphs. Moving forward, I will reconsider my color choices more carefully.
+- Both critics stressed the importance of an interesting title that guides the audience's attention.
+- Lastly, small details can significantly improve a graph's perceptibility. Including things like a caption, labels, or legend can dramatically improve its effectiveness. 
 
 # Final Visualization 
 
@@ -62,11 +66,11 @@ For my second sketch, I drew a bar chart with vertical bars. I used a very gener
 
 <br>
 
-I**nsights from user feedback:**
-- simple, accessibility when choosing colors, caption, informative or more interesting title 
-
-Finally, talk about what your redesigned data visualization shows, what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
-challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant
+**Redesign:**
+-what your redesigned data visualization shows, 
+-what you attempted to show or do differently. describe changes (horizontal bars, simplified label to Spending (USD), better title, caption, legend, used blue and grey, axis labels, 
+-(describe changes, troubleshooting, excel data revisions)
+challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant (USEFULLNESS, completeness 
 Excel data showed Billons and thousands and tableau could not read the values correctly. Needed to change raw data to billions for accurate visualization
 
 ultimately opted for a simple redesign. 
