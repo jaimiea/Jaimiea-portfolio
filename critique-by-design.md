@@ -20,6 +20,12 @@ I made a rough draft of a pie graph for my initial redesign. In my critique of t
 **Sketch 2:**
 
 ![Sketchbook -8](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/3b83947d-74c8-49dc-9326-61717d11ec23)
+<br> 
+For my second sketch, I drew a bar chart with vertical bars. I used a very generic title that informs the audience that the country of focus is the U.S. compared to the rest of the world. I liked that the bar graph also uses the same rectangular shape to make the graph's perceptibility more clear. In this redesign, I used red for the U.S. bar and black for the other nine countries to draw the audience's attention to the U.S. and draw a clear comparison. I also ordered the bars in descending order. 
+
+critiques:
+- student, early 20s: This student explained that the bar graph makes it abundantly clear that the US government spends more on its military than any other country in the world. The student also shared that she grew up in a military family and found this topic to be of personal interest. They did recommend changing the title to something that isn't a question. They also advised including a color legend for the chart. 
+- adult, mid 50s: This individual found the graph the be straightforward and clear. They appreciated the simple design and stated that it was to the point. They did advise putting country abbreviations for each bar to make it easier to read.
 
 **Tableau Graph 1:**
 
@@ -34,6 +40,11 @@ I made a rough draft of a pie graph for my initial redesign. In my critique of t
 </script>
 
 <br>
+
+
+critiques:
+- student, early 20s: color-blindness
+- adult, mid 50s: 
 
 Document your progress as you move forward in your step-by-step process.   
 include any insights you gained from the critique method, and what it led you to think about when considering the redesign.  
