@@ -7,7 +7,7 @@ Original article: [VisualCapitalist](https://www.visualcapitalist.com/ranked-top
 
 ![Screenshot of original graph](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)
 
-I chose this graph for my redesign because I liked the topic and aesthetics of the original visualization. Like the OECD graphs generalizing government debt, I wanted to create a visualization that offered comparative data for the U.S. and other countries. I also liked that the visualization could be targeted at diverse audiences. This allowed me to use the source data to create a graph that could be insightful for audiences interested in topics such as the U.S. military or global economies. The story I wanted to tell highlights the growing cost of global military expenditure.
+I chose this graph for my redesign because I liked the topic and aesthetics of the original visualization. Like the OECD graphs generalizing government debt, I wanted to create a visualization that offered comparative data for the U.S. and other countries. I also liked that the visualization could be targeted at diverse audiences. This allowed me to use the source data to create a graph that could be insightful for individuals interested in topics such as the U.S. military or global economies. The story I wanted to tell highlights the growing cost of global military expenditure.
 
 # Redesign Process
 
