@@ -31,6 +31,8 @@ I chose this visualization because I liked the topic and aesthetics of the origi
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br>
+
 Document your progress as you move forward in your step-by-step process.   
 include any insights you gained from the critique method, and what it led you to think about when considering the redesign.  
 You should talk about how you moved next to the sketches (include sketches)
@@ -50,6 +52,8 @@ Excel data showed Billons and thoiusands and tableau could not read the values c
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+<br>
 
 Document what you changed based on the user feedback in your redesign.  (user feedback writeup, avoid identifying info, no full names)
 Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
