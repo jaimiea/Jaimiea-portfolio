@@ -23,7 +23,7 @@ I made a rough draft of a pie graph for my initial redesign. In my critique of t
 <br> 
 For my second sketch, I drew a bar chart with vertical bars. I used a very generic title that informs the audience that the country of focus is the U.S. compared to the rest of the world. I liked that the bar graph also uses the same rectangular shape to make the graph's perceptibility more clear. In this redesign, I used red for the U.S. bar and black for the other nine countries to draw the audience's attention to the U.S. and draw a clear comparison. I also ordered the bars in descending order. 
 
-critiques:
+**critiques:**
 - **student, early 20s:** This student explained that the bar graph makes it abundantly clear that the U.S. government spends more on its military than any other country in the world. The student shared that she grew up in a military family and found this topic to be of personal interest. She also stated that this graph could be targeted at a wide-reaching audience or used to comment on a wide variety of news stories and topics. They did recommend changing the title to something that isn't a question. They also advised including a color legend for the chart.
 - **adult, mid-50s:** This individual found the graph the be straightforward and clear. They appreciated the simple design and stated that it was to the point and great for busy readers. They stated that this graph seems relevant to anyone who follows politics or is involved with the military. They did advise putting country abbreviations for each bar to make it easier to read.
 
@@ -42,9 +42,9 @@ critiques:
 <br>
 
 
-critiques:
-- **student, early 20s:** The student described the map graph to be visually appealing but less clear about its intent. She explained that the whole country being filled in with color made it more obvious which countries were included on your list. They also stated that the colors referring to dollar expenditure rather than country name in the key felt more informative, and better highlighted where each country fell on the spectrum. However, she felt the title didn't make it obvious that the U.S. had the highest military expenditure as the other graph did. They also recommended increasing the color range if possible since red-green color blindness is pretty common.  
-- **adult, mid 50s:**  
+**critiques:**
+- **student, early 20s:** The student described the map graph to be visually appealing but less clear about its intent. She explained that the whole country being filled in with color made it more obvious which countries were included on the top ten list. They also stated that the colors referring to dollar expenditure rather than country name in the key felt more informative, and better highlighted where each country fell on the spectrum. However, she felt the title didn't make it obvious that the U.S. had the highest military expenditure as the other graph did. They also recommended increasing the color range if possible since red-green color blindness is pretty common.  
+- **adult, mid-50s:** The second user found the map visualization to be informative geographically but not as impactful as the previous draft. They explained that the map took more time to understand and didn't like having to scroll over each country to obtain further information. They also disliked that some of the country titles did not fit into each country on the map. They advised it would be more appealing with a simpler design that could show all the data at one glance. 
  
 
 
@@ -62,7 +62,9 @@ critiques:
 
 <br>
 
-Insights from user feedback: simple, accessibility when choosing colors, caption, informative or more interesting title 
+I**nsights from user feedback:**
+- simple, accessibility when choosing colors, caption, informative or more interesting title 
+
 Finally, talk about what your redesigned data visualization shows, what you attempted to show or do differently. (describe changes, troubleshooting, excel data revisions)
 challenges: could not use 2021 data to tell story about the article's take on global conflict and china and Russia. Seemed irrelevant
 Excel data showed Billons and thousands and tableau could not read the values correctly. Needed to change raw data to billions for accurate visualization
