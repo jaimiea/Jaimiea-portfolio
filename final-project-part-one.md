@@ -65,9 +65,6 @@ Understanding and improving this problem requires educated decision-makers to co
 ![Sketchbook -22](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/0a6e14f7-4c4b-4b25-b9be-e989462d71fc)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -77,6 +74,18 @@ Understanding and improving this problem requires educated decision-makers to co
 | CDC|[URL](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#figures)| CDC data on maternal mortality across different demographics|
 | The World Bank|[URL](https://genderdata.worldbank.org/indicators/sh-leve/) | Provides relevant economic data |
 |Health System Tracker|[URL](https://www.healthsystemtracker.org)|Source for economic health data|
+
+**Citations:**
+- CDC Newsroom. (2016, January 1). CDC. https://www.cdc.gov/media/releases/2022/p0919-pregnancy-related-deaths.html
+- Health resources—Health spending—OECD Data. (n.d.). theOECD. Retrieved February 11, 2024, from http://data.oecd.org/healthres/health-spending.htm
+- Health Status: Maternal and infant mortality. (n.d.). Retrieved February 11, 2024, from https://stats.oecd.org/index.aspx?queryid=30116
+- Peterson-KFF Health System Tracker. (n.d.).  Retrieved February 12, 2024, from https://www.healthsystemtracker.org/
+- Pregnancy Mortality Surveillance System | Maternal and Infant Health | CDC. (2023, March 31). https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-      mortality-surveillance-system.htm
+- World Bank Gender Data Portal. (n.d.). World Bank Gender Data Portal. Retrieved February 12, 2024, from https://genderdata.worldbank.org/
+
+**Application of Data Sources:**
+
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
