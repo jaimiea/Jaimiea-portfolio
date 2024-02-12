@@ -13,11 +13,11 @@ What I hope to achieve with my visualizations!
 **1.) Setup:** 
 Despite having the highest healthcare expenditure, maternal mortality remains concerningly high in the U.S. compared to other OECD nations. This issue disproportionately affects low-income women of color.
 - Introduce the topic: Maternal Mortality and Health Disparities (Narrow -> Broad)
-- Provide context: statistics, important data trends 
+- Provide context: statistics, important data trends
+  - “84% of pregnancy-related deaths are preventable” ([Katella](https://www.yalemedicine.org/news/maternal-mortality-on-the-rise), 2023).
 - U.S. Maternal Mortality ranking amongst OECD countries
 - U.S. ranking for healthcare expenditure amongst OECD nations
 - Define maternal mortality
-- Include the following statistic, “84% of pregnancy-related deaths are preventable” ([Katella](https://www.yalemedicine.org/news/maternal-mortality-on-the-rise), 2023).
 - List the main causes of maternal death 
 - Portray differences across race, income, geography
 
