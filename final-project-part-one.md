@@ -42,6 +42,7 @@ Understanding and improving this problem requires educated decision-makers to co
 - The broad takeaway: Portraying U.S. healthcare accessibility, disparities, and patient outcomes. 
 
 **Preliminary Story Arc Sketch:**
+
 ![Sketchbook -14](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/27332f7c-928a-4023-a3e2-575ba3bb7868)
 
 
