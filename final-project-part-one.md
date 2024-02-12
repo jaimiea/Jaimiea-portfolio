@@ -74,8 +74,9 @@ Understanding and improving this problem requires educated decision-makers to co
 | OECD.Stat|[URL](https://stats.oecd.org/index.aspx?queryid=30116)| OECD data on maternal mortality|
 | OECD Data|[URL](https://data.oecd.org/healthres/health-spending.htm)| OECD data on healthcare expenditure|
 | HealthData.gov| [URL](https://healthdata.gov/browse?q=maternal%20mortality&sortBy=relevance)| U.S. data for maternal mortality and outcomes|
-| CDC|[URL](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#figures)| CDC data on maternal mortality per race|
-|      |     |             |
+| CDC|[URL](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#figures)| CDC data on maternal mortality across different demographics|
+| The World Bank|[URL](https://genderdata.worldbank.org/indicators/sh-leve/) | Provides relevant economic data |
+|Health System Tracker|[URL](https://www.healthsystemtracker.org)|Source for economic health data|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
