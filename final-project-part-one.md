@@ -71,8 +71,10 @@ Understanding and improving this problem requires educated decision-makers to co
 
 | Name | URL | Description |
 |------|-----|-------------|
-|  OECD.Stat    |[URL](https://stats.oecd.org/index.aspx?queryid=30116)| OECD data on maternal mortality              |
-|      |     |             |
+| OECD.Stat|[URL](https://stats.oecd.org/index.aspx?queryid=30116)| OECD data on maternal mortality|
+| OECD Data|[URL](https://data.oecd.org/healthres/health-spending.htm)| OECD data on healthcare expenditure|
+| HealthData.gov| [URL](https://healthdata.gov/browse?q=maternal%20mortality&sortBy=relevance)| U.S. data for maternal mortality and outcomes|
+| CDC|[URL](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#figures)| CDC data on maternal mortality per race|
 |      |     |             |
 
 # Method and medium
