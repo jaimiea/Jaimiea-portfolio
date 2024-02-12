@@ -65,8 +65,9 @@ Understanding and improving this problem requires educated decision-makers to co
 ![Sketchbook -22](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/0a6e14f7-4c4b-4b25-b9be-e989462d71fc)
 
 # The data
+I've compiled data from sources that are publicly accessible. These sources include the OECD database, HealthData.gov, The CDC, The World Bank, and KFF’s Health System Tracker. This provides me with data from reputable economic and public health resources. I plan to utilize data from the OECD databases to provide a general context for my audience.  The OECD database offers great comparative data that allows me to visualize how U.S. spending and maternal health outcomes compare to other countries. This makes it easy to notice trends or outliers and see how the U.S. compares to the OECD average over time. Similarly, the Health Data government database provides great datasets on women’s health and U.S. mortality. This will be important for providing my audience with important evidence and background information.
 
-I've 
+To make my visualizations more specific, I will rely on CDC data collected on maternal mortality rates for different racial and economic groups. This data will be significant for portraying the disparities prevalent throughout the health system and how maternal mortality disproportionately affects minority women. The CDC also publishes medical data to research the top causes of pregnancy-related death and provides important resources for pregnant women. Lastly, I will utilize economic data provided by the World Bank and Health System Tracker to visualize the economic implications of pregnancy. I will use data on topics such as paid leave in the U.S., access to prenatal care, and childbirth costs.
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -75,7 +76,7 @@ I've
 | HealthData.gov| [URL](https://healthdata.gov/browse?q=maternal%20mortality&sortBy=relevance)| U.S. data for maternal mortality and outcomes|
 | CDC|[URL](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#figures)| CDC data on maternal mortality across different demographics|
 | The World Bank|[URL](https://genderdata.worldbank.org/indicators/sh-leve/) | Provides relevant economic data |
-|Health System Tracker|[URL](https://www.healthsystemtracker.org)|Source for economic health data|
+| Health System Tracker|[URL](https://www.healthsystemtracker.org)|Source for economic health data|
 
 **Citations:**
 - CDC Newsroom. (2016, January 1). CDC. https://www.cdc.gov/media/releases/2022/p0919-pregnancy-related-deaths.html
@@ -87,6 +88,5 @@ I've
 - World Bank Gender Data Portal. (n.d.). World Bank Gender Data Portal. Retrieved February 12, 2024, from https://genderdata.worldbank.org/
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will utilize Shorthand and Tableau to complete my final project. I like the workability and interactive features of Shorthand. I will also use Tableau to create different types of interactive visualizations to include in my final shorthand presentation.
 
-Text here...
