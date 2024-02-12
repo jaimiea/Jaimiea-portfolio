@@ -42,7 +42,8 @@ Understanding and improving this problem requires educated decision-makers to co
 - The broad takeaway: Portraying U.S. healthcare accessibility, disparities, and patient outcomes. 
 
 **Preliminary Story Arc Sketch:**
-![Sketchbook -14](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/11ab6f57-4d3b-4c24-9cae-1f11d0cb84ae)
+![Sketchbook -14](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/27332f7c-928a-4023-a3e2-575ba3bb7868)
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
