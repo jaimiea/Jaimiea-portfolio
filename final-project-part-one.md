@@ -41,7 +41,8 @@ Understanding and improving this problem requires educated decision-makers to co
 - Building systems to prevent and reduce implicit bias and develop a standardized method of care 
 - The broad takeaway: Portraying U.S. healthcare accessibility, disparities, and patient outcomes. 
 
-
+**Preliminary Story Arc Sketch:**
+![Sketchbook -14](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/11ab6f57-4d3b-4c24-9cae-1f11d0cb84ae)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
