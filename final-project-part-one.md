@@ -66,6 +66,8 @@ Understanding and improving this problem requires educated decision-makers to co
 
 # The data
 
+I've 
+
 | Name | URL | Description |
 |------|-----|-------------|
 | OECD.Stat|[URL](https://stats.oecd.org/index.aspx?queryid=30116)| OECD data on maternal mortality|
@@ -79,13 +81,10 @@ Understanding and improving this problem requires educated decision-makers to co
 - CDC Newsroom. (2016, January 1). CDC. https://www.cdc.gov/media/releases/2022/p0919-pregnancy-related-deaths.html
 - Health resources—Health spending—OECD Data. (n.d.). theOECD. Retrieved February 11, 2024, from http://data.oecd.org/healthres/health-spending.htm
 - Health Status: Maternal and infant mortality. (n.d.). Retrieved February 11, 2024, from https://stats.oecd.org/index.aspx?queryid=30116
+- Maternal Mortality Is on the Rise: 8 Things To Know. (n.d.). Yale Medicine. Retrieved February 11, 2024, from https://www.yalemedicine.org/news/maternal-mortality-  on-the-rise
 - Peterson-KFF Health System Tracker. (n.d.).  Retrieved February 12, 2024, from https://www.healthsystemtracker.org/
-- Pregnancy Mortality Surveillance System | Maternal and Infant Health | CDC. (2023, March 31). https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-      mortality-surveillance-system.htm
+- Pregnancy Mortality Surveillance System Maternal and Infant Health CDC. (2023, March 31). https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-          mortality-surveillance-system.htm
 - World Bank Gender Data Portal. (n.d.). World Bank Gender Data Portal. Retrieved February 12, 2024, from https://genderdata.worldbank.org/
-
-**Application of Data Sources:**
-
-
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
