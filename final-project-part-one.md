@@ -10,8 +10,17 @@ For the second part of my story, I wanted to delve into the why and the reasons 
 **Story Structure:**
 What I hope to achieve with my visualizations!
 
-**Setup:** Despite having the highest healthcare expenditure, maternal mortality remains concerningly high in the U.S. compared to other OECD nations. This issue disproportionately affects low-income women of color.
-- 
+**Setup:** 
+Despite having the highest healthcare expenditure, maternal mortality remains concerningly high in the U.S. compared to other OECD nations. This issue disproportionately affects low-income women of color.
+- Introduce topic: Maternal Mortality and Health Disparities (Narrow -> Broad)
+- Provide context: statistics, important data trends 
+--	U.S. Maternal Mortality ranking amongst OECD countries
+--	U.S. ranking for healthcare expenditure amongst OECD nations
+--	Define maternal mortality
+--	Include the following statistic, “84% of pregnancy-related deaths are preventable” (Katella, 2023).
+-- List the main causes of maternal death 
+-- Portray differences across race, income, geography
+
 
 
 ## Initial sketches
