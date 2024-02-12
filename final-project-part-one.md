@@ -47,9 +47,22 @@ Understanding and improving this problem requires educated decision-makers to co
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Sketchbook -15](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/fc40b3f7-f67b-4fa8-8779-6a81227fba47)
+
+![Sketchbook -16](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/a9630e3a-6a2f-414e-b73e-d1387e54978a)
+
+![Sketchbook -17](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/23e0e7a6-5bc5-4c4d-8b23-a44d62bd8c36)
+
+![Sketchbook -18](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/e1c557cb-fcdd-4429-bbca-920f96713fdf)
+
+![Sketchbook -19](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/ba29f1a4-eb15-4ba4-8f98-3471e5d4d06e)
+
+![Sketchbook -20](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/2a81ce30-899e-403c-a7f1-e5c2576dee65)
+
+![Sketchbook -21](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/13e724c1-3bb6-4a3c-bf6e-3f5dd66adffc)
+
+![Sketchbook -22](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/0a6e14f7-4c4b-4b25-b9be-e989462d71fc)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
