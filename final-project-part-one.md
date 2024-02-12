@@ -10,7 +10,7 @@ For the second part of my story, I wanted to delve into the why and the reasons 
 **Story Structure:**
 What I hope to achieve with my visualizations!
 
-**Setup:** 
+**1.) Setup:** 
 Despite having the highest healthcare expenditure, maternal mortality remains concerningly high in the U.S. compared to other OECD nations. This issue disproportionately affects low-income women of color.
 - Introduce the topic: Maternal Mortality and Health Disparities (Narrow -> Broad)
 - Provide context: statistics, important data trends 
@@ -21,7 +21,7 @@ Despite having the highest healthcare expenditure, maternal mortality remains co
 - List the main causes of maternal death 
 - Portray differences across race, income, geography
 
-**Conflict:**
+**2.) Conflict:**
 Maternal mortality continues to rise in the U.S. and highlights the inequalities prevalent in our healthcare system. This has negative implications for U.S. children and families.  Evaluating the cause of this problem requires a look into many underlying factors.
 - Data on the impact on children and families
 - Social determinants of health and socioeconomic factors (why certain groups are disproportionately affected?) 
@@ -31,7 +31,7 @@ Maternal mortality continues to rise in the U.S. and highlights the inequalities
 - Effects of maternity leave 
 - Childcare and delivery costs (Itemized hospital bill comparison for U.S. and another OECD country )
 
-**Resolution:**
+**3.) Resolution:**
 Understanding and improving this problem requires educated decision-makers to consider how policy interventions and systemic changes can improve maternal health outcomes. 
 - Why should the audience care? 
 - Call to Action!
