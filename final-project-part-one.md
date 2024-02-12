@@ -22,7 +22,7 @@ Despite having the highest healthcare expenditure, maternal mortality remains co
 - Portray differences across race, income, geography
 
 **2.) Conflict:**
-Maternal mortality continues to rise in the U.S. and highlights the inequalities prevalent in our healthcare system. This has negative implications for U.S. children and families.  Evaluating the cause of this problem requires a look into many underlying factors.
+Maternal mortality continues to rise in the U.S. as it declines in other high-income countries. This has negative implications for U.S. children and families.  Evaluating the cause of this problem requires a look into many underlying factors and inequities.
 - Data on the impact on children and families
 - Social determinants of health and socioeconomic factors (why certain groups are disproportionately affected?) 
 - Healthcare implicit biases 
