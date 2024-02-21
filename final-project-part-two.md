@@ -1,11 +1,14 @@
 | [home page](https://jaimiea.github.io/Jaimiea-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframe/Storyboard
+# Storyboard
 <script src="https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality/embed.js"></script>
 
-<br>
-**Storyboard Reflection:**
-I created my rough draft using Shorthand. I thought it would be a good opportunity to play around with the platform's different features and fleshing out the overall structure of my story. I began by introducing my topic using the points outlined in Part I. The story begins by providing the audience with important context and information on U.S. maternal death trends and causes. In the conflict part of my story, I begin to delve deeper into some of the reasons for these trends. This involved research on topics like paid maternity leave, the maternal workforce, and access to prenatal care. I also incorporated a lot of related images and a video that supported these ideas. My call to action is still coming together. For my draft, I only listed bullet point ideas, potential policy interventions, and resources I would like to include in my final draft. 
+**Reflection:**
+I created my rough draft using Shorthand. I thought it would be a good opportunity to play around with the platform's different features and fleshing out the overall structure of my story. I began by introducing my topic using the points outlined in Part I. The story begins by providing the audience with important context and information on U.S. maternal death trends and causes. In the conflict part of my story, I begin to delve deeper into some of the reasons for these trends. This involved research on topics like paid maternity leave, the maternal workforce, and access to prenatal care. I also incorporated a lot of related images and a video that supported these ideas. My call to action is still coming together. For my draft, I only listed bullet point ideas, potential policy interventions, and resources I would like to include in my final draft. I will also include my citations in the final draft. 
+
+# Wireframes
+
+
 
 **Challenges:**
 - I encountered a lot of issues while making this project. There were lots of challenges with my data and Tableau. I would often have to clean up my Excel data or restructure it so that Tableau could interpret it more efficiently. I also faced lots of issues when trying to remove whitespace in my graphs. My pie chart still looks a bit cluttered due to the disproportionate spacing. I'm also conflicted by the Tableau graphs since they can only have a white background that looks kind of out of place with my dark Shorthand background. 
@@ -63,8 +66,4 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
