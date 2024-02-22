@@ -34,21 +34,15 @@ I created my rough draft using Shorthand. I thought it would be a good opportuni
 
 **Challenges:**
 - I encountered a lot of issues while making this project. There were lots of challenges with my data and Tableau. I would often have to clean up my Excel data or restructure it so that Tableau could interpret it more efficiently. I also faced lots of issues when trying to remove whitespace in my graphs. My pie chart still looks a bit cluttered due to the disproportionate spacing. I'm also conflicted by the Tableau graphs since they can only have a white background that looks kind of out of place with my dark Shorthand background. 
-- I also encountered some design challenges. For one, it was easy to keep using graph or line graphs for my visualizations. However, I wanted to diversify my data presentations. I would often begin by seeing if my data made it feasible to create certain types of graphs. If the data cooperated I would play around with either Tableau, Datawrapper, or Canva to create a few iterations for each data set. From there I narrowed it down to what I believed was the best version.
+- I also encountered some design challenges. Since a lot of my graphs were drawing comparisons or showing trends over time I found it difficult to not use bar or line graphs for my visualizations. However, I wanted to diversify my data presentations. I would often begin by seeing if my data made it feasible to create certain types of graphs. If the data cooperated I would play around with either Tableau, Datawrapper, or Canva to create a few iterations for each data set. From there I narrowed it down to what I believed was the best version.
 - In  my attempt to make more creative visualizations I struggled to make a waffle graph. For my initial sketches, I used this graph type to show comparative data on mandatory paid maternity leave in the U.S., Asia, Australia, and Europe. Unfortunately, after a few online tutorials and a lot of trial and error, I opted to reattempt this graph later. If I cannot find a way to create a waffle chart using Excel I may utilize a different visualization type for that data set. 
 
-# User research 
-
+# User Research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+While I believe this topic is relevant to the general public, my target audience for this project is policymakers (key decision-makers), healthcare workers, U.S. women & families, and public health officials. The factors influencing U.S. maternal mortality and morbidity will ultimately need to be addressed by the target audience I identified. However, the general audience plays a significant role in garnering attention and support for the policy interventions outlined in my draft. This requires providing compelling evidence and a narrative that persuades your audience to not only care about the issue but feel motivated enough to get involved or stay informed. Ultimately, I wanted my final draft to be accessible to all audiences while still maintaining an overall professional tone and jargon.
 
-Text here!
-
-## Interview script
-> List the goals from your research and the questions you intend to ask. 
-
-Text here!
+## Interview script 
 
 | Goal | Questions to Ask |
 |------|------------------|
