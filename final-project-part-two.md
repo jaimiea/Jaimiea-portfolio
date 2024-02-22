@@ -46,13 +46,14 @@ While I believe this topic is relevant to the general public, my target audience
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|To gauge if the visualizations provided insight into the story being told| 1.) What story do you think the data is telling you?|
+|Understand if the story unfolds in a way that's easy to follow and understand|2.) Is the overall structure and flow of the story clear?|
+|Evaluate the effectiveness of different design choices I made for my graphs|3.) Please provide specific feedback on the visualizations. What worked? What didn’t? (i.e. titles, use of white space, color choice, etc.)|
+|Check if there are any missing story elements or specific areas I should elaborate on|4.) Are there any story elements you feel are missing or could help tell a more compelling story? (i.e. more graphs on geography, more context on a specific topic)|
+|Check if the story is compelling, appropriate, and persuasive for the target audience|5.) Who do you think the target audience is?|
+|Understand if the main takeaways and recommendations are clear|6.) Is the call to action clear?|
 
-
-Text here!
-
+                  
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
