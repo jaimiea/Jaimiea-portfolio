@@ -1,7 +1,7 @@
 | [home page](https://jaimiea.github.io/Jaimiea-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Storyboard
-<script src="https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality/embed.js"></script>
+<script src="https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality/embed.js"></script> 
 
 **Reflection:**
 
