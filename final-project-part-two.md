@@ -30,7 +30,7 @@ I created my rough draft using Shorthand. I thought it would be a good opportuni
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF9d6-BLx4&#x2F;kwy3g5D3VaKAoTSfLTOp7w&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF9d6-BLx4&#x2F;kwy3g5D3VaKAoTSfLTOp7w&#x2F;watch?utm_content=DAF9d6-BLx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Screenshot 2024-02-21 at 3.40.00 PM</a> by Jaime A
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF9d6-BLx4&#x2F;kwy3g5D3VaKAoTSfLTOp7w&#x2F;watch?utm_content=DAF9d6-BLx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 **Challenges:**
 - I encountered a lot of issues while making this project. There were lots of challenges with my data and Tableau. I would often have to clean up my Excel data or restructure it so that Tableau could interpret it more efficiently. I also faced lots of issues when trying to remove whitespace in my graphs. My pie chart still looks a bit cluttered due to the disproportionate spacing. I'm also conflicted by the Tableau graphs since they can only have a white background that looks kind of out of place with my dark Shorthand background. 
