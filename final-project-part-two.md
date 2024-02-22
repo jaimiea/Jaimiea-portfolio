@@ -9,6 +9,8 @@ I created my rough draft using Shorthand. I thought it would be a good opportuni
 
 # Wireframes
 
+**Tableau Graphs:**
+
 <div class='tableauPlaceholder' id='viz1708561272321' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;U_&#47;U_S_MaternalMortalityWorkbook&#47;Graph1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='U_S_MaternalMortalityWorkbook&#47;Graph1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;U_&#47;U_S_MaternalMortalityWorkbook&#47;Graph1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1708561272321');                    
@@ -18,6 +20,9 @@ I created my rough draft using Shorthand. I thought it would be a good opportuni
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+**Canva Graphs:**
+https://www.canva.com/design/DAF9d6-BLx4/sE3nHA1caMN-lghJa5Nn1Q/edit?utm_content=DAF9d6-BLx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Challenges:**
 - I encountered a lot of issues while making this project. There were lots of challenges with my data and Tableau. I would often have to clean up my Excel data or restructure it so that Tableau could interpret it more efficiently. I also faced lots of issues when trying to remove whitespace in my graphs. My pie chart still looks a bit cluttered due to the disproportionate spacing. I'm also conflicted by the Tableau graphs since they can only have a white background that looks kind of out of place with my dark Shorthand background. 
