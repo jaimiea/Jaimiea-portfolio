@@ -55,15 +55,21 @@ While I believe this topic is relevant to the general public, my target audience
 
                   
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Since most of my solutions delve into policy interventions, I thought it would be important to interview at least two policy students. I also wanted to ask two women and at least one man to get perspectives from different genders. I think the questions I asked were general and specific enough to gauge if the story was clear for the general public as well as my target audience. Lastly, one of my participants is also an international student. I thought it would be interesting to get an international perspective since a lot of my data discusses OECD trends and draws comparative data between the U.S. and other nations. 
 
-Text here!
+- User A: Woman, Mid-30s, Technology Policy Student,  
+- User B: Woman, Early 30s, Early Education Policy Student
+- User C: Man, Late 20s, Entertainment Industry Management Student, International student
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+
+| Questions               |User A | User B| User C |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Question 1 | Insightful feedback |             |             |
+| Question 1 |                     |             |             |
+| Question 1 |                     |             |             |
+| Question 1 |                     |             |             |
+| Question 1 |                     |             |             |
+| Question 1 |                     |             |             |
 
 
 # Identified changes for Part III
