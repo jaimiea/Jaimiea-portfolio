@@ -71,19 +71,20 @@ Since most of my solutions delve into policy interventions, I thought it would b
 | Question 5 | I would say the target audience is anyone who cares about the well-being of mothers while pregnant, as well as the general public at large who should know these alarming statistics.| The general public to begin caring more about the topic.| Doctors, hospitals, healthcare providers, insurance companies (maybe), and women's rights activists?|
 | Question 6 | I am having trouble figuring out what the call to action is just yet, but I can see where it going.| Although I now understand what the problem is, I do not know what I can do next to help solve the problem.  Perhaps a clearer call to action could enable to reader to be able to do something to help solve the problem. |Yes|
 
+**Key Findings:**
+- For the most part, my user feedback confirmed the story structure and 
+
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Redesign Elements| Some of the feedback addressed the use of color in my visualizations. I should address the different shades of yellow used across my graphs|
+| Itemized Invoice |                                                                |
+| Waffle Chart|                                                                      |
+| Remove redundant graphs or evidence for conciseness |                                                                |
+| Combine OECD graphs|                                                                     |
+| Call to Action |                                                                     |
 
 **Final Thoughts:**
 
