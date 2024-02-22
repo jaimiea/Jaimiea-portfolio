@@ -64,9 +64,7 @@ Since most of my solutions delve into policy interventions, I thought it would b
 
 | Questions               |User A | User B| User C |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question 1 | The story is telling me that maternal death rates in the U.S. are unnecessarily high and far worse
-than most other countries. It shows the need for change and what some of the causes for the
-situation is. |The point that the data is trying to tell is that maternal mortality rates in the US are very high and there is a lack of a proper system to stop this from happening.|My takeaway from this data is that while we have more technology and wealth than ever before, there are underlying issues in medical care that have caused increased maternal mortality. The issues are racial biases from medical care workers that haven’t been addressed adequately, as well as the resources available to pregnant women.|
+| Question 1 | The story is telling me that maternal death rates in the U.S. are unnecessarily high and far worse than most other countries. It shows the need for change and what some of the causes for the situation is. |The point that the data is trying to tell is that maternal mortality rates in the US are very high and there is a lack of a proper system to stop this from happening.|My takeaway from this data is that while we have more technology and wealth than ever before, there are underlying issues in medical care that have caused increased maternal mortality. The issues are racial biases from medical care workers that haven’t been addressed adequately, as well as the resources available to pregnant women.|
 | Question 2 |                     |             |             |
 | Question 3 |                     |             |             |
 | Question 4 |                     |             |             |
