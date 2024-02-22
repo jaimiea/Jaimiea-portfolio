@@ -65,11 +65,11 @@ Since most of my solutions delve into policy interventions, I thought it would b
 | Questions               |User A | User B| User C |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question 1 | Insightful feedback |             |             |
-| Question 1 |                     |             |             |
-| Question 1 |                     |             |             |
-| Question 1 |                     |             |             |
-| Question 1 |                     |             |             |
-| Question 1 |                     |             |             |
+| Question 2 |                     |             |             |
+| Question 3 |                     |             |             |
+| Question 4 |                     |             |             |
+| Question 5 |                     |             |             |
+| Question 6 |                     |             |             |
 
 
 # Identified changes for Part III
@@ -85,8 +85,5 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
+**Final Thoughts:**
 
