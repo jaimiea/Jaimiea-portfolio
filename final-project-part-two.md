@@ -83,12 +83,14 @@ Since most of my solutions delve into policy interventions, I thought it would b
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Redesign Elements| Some of the feedback addressed the use of color in my visualizations. I should address the different shades of yellow used across my graphs|
-| Itemized Invoice |                                                                |
-| Waffle Chart|                                                                      |
-| Remove redundant graphs or evidence for conciseness |                                                                |
-| Combine OECD graphs|                                                                     |
-| Call to Action |                                                                     |
+| Redesign Elements| Some of the feedback mentioned the use of color in my visualizations. I should address the different shades of yellow used across my graphs and consider adding more labels or descriptions to my visualizations. For example, user C asked if the "Main Causes of Maternal Death" graph could better define the time of death categories used in the visualization. |
+| Itemized Invoice | My plan for my final draft is to include an itemized invoice for childbirth in the U.S. and compare it with an itemized invoice from another industrialized OECD nation. To accomplish this I will utilize a different color invoice template (as advised by user A) and begin to create these in Canva or Adobe.|
+| Waffle Chart| User B advised the waffle graph looks a bit "whimsical" or out of place. However, since I was only able to upload the sketch of this graph I would still like to reattempt to make it in Excel before considering how I will finalize the visualization for this data set. I think the waffle graph format works for the specific data I'm trying to present and convey. I also like that it allows me to utilize something that isn't a bar or line graph.|
+| Remove redundant graphs or evidence for conciseness | During my in-class group feedback, I was advised that some of the statistics I included were repetitive. For conciseness I have removed my pictogram showing 4/5 maternal deaths were preventable and opted to keep my intro quote instead. The group argued that "84% of maternal deaths are preventable" was a more powerful statement.|
+| Combine OECD graphs| My group also mentioned it might be interesting to combine the OECD data on expenditure could be a combined line graph with the OECD maternal mortality rates. They advised this could potentially show an interesting relationship between the metrics.|
+| Call to Action | Lastly, my call to action was unclear to two of my users. They advised that it could be more direct and specific. Since I only listed preliminary ideas and policy interventions for my call to action I will add more details and resource links in my final submission. Ultimately, I want my call to action to convince my audience to care and stay informed.|
 
 **Final Thoughts:**
+
+
 
