@@ -20,9 +20,17 @@ I created my rough draft using Shorthand. I thought it would be a good opportuni
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+<br>
 
 **Canva Graphs:**
-https://www.canva.com/design/DAF9d6-BLx4/sE3nHA1caMN-lghJa5Nn1Q/edit?utm_content=DAF9d6-BLx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div style="position: relative; width: 100%; height: 0; padding-top: 150.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF9d6-BLx4&#x2F;kwy3g5D3VaKAoTSfLTOp7w&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF9d6-BLx4&#x2F;kwy3g5D3VaKAoTSfLTOp7w&#x2F;watch?utm_content=DAF9d6-BLx4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Screenshot 2024-02-21 at 3.40.00 PM</a> by Jaime A
 
 **Challenges:**
 - I encountered a lot of issues while making this project. There were lots of challenges with my data and Tableau. I would often have to clean up my Excel data or restructure it so that Tableau could interpret it more efficiently. I also faced lots of issues when trying to remove whitespace in my graphs. My pie chart still looks a bit cluttered due to the disproportionate spacing. I'm also conflicted by the Tableau graphs since they can only have a white background that looks kind of out of place with my dark Shorthand background. 
