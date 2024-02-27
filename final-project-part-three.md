@@ -20,15 +20,20 @@
 - Lastly, in my draft, I originally planned to use an invoice template from Canva to create an itemized invoice for the average U.S. child delivery costs and compare it with an itemized invoice from another country. However, upon further research, I discovered a few challenges with this idea. For one, average child delivery costs vary highly across different states and by delivery method. This makes it difficult to find an accurate average across all of the U.S. Second, I learned that despite countries like Japan having higher birthing costs, they offer much better insurance coverage, postpartum care, and medical leave. As a result, simply telling a story about the high costs of childbirth in the U.S. didn't seem too compelling since it doesn't examine how insurance coverage factors into cost and resource accessibility. 
   
 ## The Audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+- During my user feedback I asked my interviewees who they believed was the target audience for my topic. All three users identified the target audience could be either the general public or key decision-makers in the public health and policy sector.
+- I also identified two audiences for my project. On a specific level, I want my story to target healthcare workers, public health officials, and policymakers. These are the key decision-makers I've identified in addressing this issue. To appeal to this specific audience I wanted to use reputable data sources and research from relevant organizations. I relied heavily on ethos and logos to establish credibility.
+- The general audience is also important since my topic requires public support and advocacy to motivate key decision-makers. I relied heavily on pathos to communicate the negative implications of maternal mortality. I wanted to compel my general audience to care about the issue and stay informed.
 
 ## Presentation Focus
-Tell story using setup, conflict, and resolution structure. Select the graph from each section and discuss key points of each section. 
+- Since we only have a minute to present, I want to ensure the key sections of my story are communicated.
+- I plan to tell my story using the format specified in my outline: setup, conflict, and resolution
+- In chronological order, I will select a graph from each section and discuss the key points of each visualization. I want my narrative to start with some background info and context, move into the conflict (discuss the problem in detail), and conclude with my potential solutions and call to action.
 
 ## References
 A full list of references can be found on Shorthand via this [link](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html#group-section-References-299X1PrgQW)
 
 # Final Thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+- Overall this course has taught me a lot about data storytelling and its process.
 
-Text here!
+ How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+
