@@ -26,14 +26,14 @@
 
 ## Presentation Focus
 - Since we only have a minute to present, I want to ensure the key sections of my story are communicated.
-- I plan to tell my story using the format specified in my outline: setup, conflict, and resolution
+- I plan to tell my story using the format specified in my outline: setup, conflict, and resolution.
 - In chronological order, I will select a graph from each section and discuss the key points of each visualization. I want my narrative to start with some background info and context, move into the conflict (discuss the problem in detail), and conclude with my potential solutions and call to action.
 
 ## References
 A full list of references can be found on Shorthand via this [link](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html#group-section-References-299X1PrgQW)
 
 # Final Thoughts
-- Overall this course has taught me a lot about data storytelling and its process.
+- Overall this course has taught me a lot about data storytelling and its process. I've enjoyed learning how to use different programs like Tableau, Shorthand, Canva, and Datawrapper. I look forward to applying these new skills and utilizing these tools in my future career and courses. If I could go back in time, I would like to challenge myself and work through the issues I encountered when making certain graphs. I would've liked to utilize more features in Shorthand such as the reveal and scrollmation slides. 
 
  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
