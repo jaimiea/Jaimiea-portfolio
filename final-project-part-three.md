@@ -2,7 +2,8 @@
 
 # The Final Data Story
 
-[Shorthand link](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html)
+[View in a new window](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html)
+<br>
 <script src="https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/embed.js"></script>
 
 # Changes Made Since Part II
@@ -21,7 +22,7 @@ Text here!
 Text here!
 
 ## References
-A full list of references can be found on Shorthand [link](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html#group-section-References-299X1PrgQW))
+A full list of references can be found on Shorthand [link](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html#group-section-References-299X1PrgQW)
 
 # Final Thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
