@@ -4,6 +4,7 @@
 
 [View in a new window](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html)
 <br>
+
 <script src="https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/embed.js"></script>
 
 # Changes Made Since Part II
