@@ -1,7 +1,6 @@
 | [home page](https://jaimiea.github.io/Jaimiea-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The Final Data Story
-
 [View in a new window](https://carnegiemellon.shorthandstories.com/u-s-maternal-mortality2/index.html)
 <br>
 
