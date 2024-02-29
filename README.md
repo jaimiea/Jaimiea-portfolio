@@ -3,7 +3,7 @@
 # Jaimiea-portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-# About me  
+# About Me  
 **Name:** Jaimie An\
 **Pronouns:** She/her/hers\
 **Current Program:** MS Public Policy and Management\
@@ -11,16 +11,16 @@ This is my public portfolio for Telling Stories with Data at CMU!
 **Hometown:** Southern California\
 **Hobbies:** Binging TV, Eating, Traveling
 
-# What I hope to learn
+# What I Hope to Learn
 I'm excited to practice storytelling techniques to create and interpret data visualizations. My goal is to explore color theory and apply these concepts to produce compelling data presentations for healthcare and policy organizations. Ultimately, I hope to challenge myself throughout this course, acquire new design skills, and present data in a way that is accessible to a wide range of audiences.
 
 # Portfolio 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3 & 4: [Critique by Design](critique-by-design)
 
-## Final project: 
-Cumulative project to ensure you understand your audience, are communicating at an appropriate level, and tell the story using data visualization methods that are meaningful. 
+## Final Project: 
+Cumulative project to ensure you understand your audience, are communicating at an appropriate level, and tell the story using meaningful data visualization methods. 
 
 [Part I](final-project-part-one): project proposal
 
