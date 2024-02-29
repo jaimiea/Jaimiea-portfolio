@@ -4,7 +4,7 @@
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About Me  
-![IMG_8620](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/035d2b0e-b6da-440c-b347-8e5d1dea5a83)<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/035d2b0e-b6da-440c-b347-8e5d1dea5a83" width="100" height="100">
 
 
 **Name:** Jaimie An\
