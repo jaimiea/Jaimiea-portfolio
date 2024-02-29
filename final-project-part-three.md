@@ -11,7 +11,7 @@
 ## Design Decisions
 - Since Part II, I have made several adjustments to my final draft. Utilizing the user feedback, I opted to stick with the same shade of yellow for all my slide colors and heading fonts. This kept my color scheme consistent and easy to design.
 - Another design choice I made regarding color was my decision to use dark mode for all my Shorthand slides. I didn't like the contrasting white background in my original Tableau and Canva graphs so I added a black background for each graph and edited the title, grid lines, and axis fonts to a contrasting shade of white.
-- Based on my interviews I also wanted to make my call to action more clear and impactful. To accomplish this, I added specific measures and potential policy interventions that can improve U.S. health equity and maternal outcomes. I also linked important resources and further information (using Shorthand's button feature) for individuals who may want to advocate or volunteer on related issues.
+- Based on my interviews I needed to make my call to action more clear and impactful. To accomplish this, I added specific measures and potential policy interventions that can improve U.S. health equity and maternal outcomes. I also linked important resources and further information (using Shorthand's button feature) for individuals who may want to advocate or volunteer on related issues.
 - I was able to successfully create the waffle chart after my third attempt. Using Excel I made four 10x10 cubes that allowed me to represent the number of paid maternity leave weeks available in select countries. I particularly like this graph since it shows comparative data without using a typical bar, pie, or line graph.
 
 ## Challenges 
