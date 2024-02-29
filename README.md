@@ -4,6 +4,12 @@
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About Me  
+<img src="https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/4dd09cb3-d51c-4b83-99a4-8f97f386ee6c width="300" height="300"> **Name:** Jaimie An\
+                                                                                                                                       **Current Program:** MS Public Policy and Management- Health Policy\
+**Areas of Interest:** Policy, Public Health, Health Outcomes and Accessibility, Harm Reduction, Health IT\
+**Hometown:** Southern California\
+**Hobbies:** Binging TV, Eating, Traveling
+
 **Name:** Jaimie An\
 **Current Program:** MS Public Policy and Management- Health Policy\
 **Areas of Interest:** Policy, Public Health, Health Outcomes and Accessibility, Harm Reduction, Health IT\
