@@ -4,7 +4,7 @@
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About Me  
-![IMG_8620](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/f8b5f2a3-7ef5-448c-bec4-15b19170a692)
+![IMG_8620]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/jaimiea/Jaimiea-portfolio/assets/150535493/f8b5f2a3-7ef5-448c-bec4-15b19170a692) | width=100)
 
 **Name:** Jaimie An\
 **Current Program:** MS Public Policy and Management\
