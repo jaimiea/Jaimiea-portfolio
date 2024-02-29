@@ -21,8 +21,8 @@
   
 ## The Audience
 - During my user feedback I asked my interviewees who they believed was the target audience for my topic. All three users identified the target audience could be either the general public or key decision-makers in the public health and policy sector.
-- I also identified two audiences for my project. On a specific level, I want my story to target healthcare workers, public health officials, and policymakers. These are the key decision-makers I've identified in addressing this issue. To appeal to this specific audience I wanted to use reputable data sources and research from relevant organizations. I relied heavily on ethos and logos to establish credibility.
-- The general audience is also important since my topic requires public support and advocacy to motivate key decision-makers. I relied heavily on pathos to communicate the negative implications of maternal mortality. I wanted to compel my general audience to care about the issue and stay informed.
+- I also identified two audiences for my project. On a specific level, I want my story to target healthcare workers, public health officials, and policymakers. These are the key decision-makers I've identified in addressing this issue. To appeal to this specific audience I used reputable data sources and research from relevant organizations when proposing my policy interventions. I also relied heavily on ethos and logos to establish credibility.
+- The general audience is also important since my topic requires public support and advocacy to motivate key decision-makers. I relied heavily on pathos to communicate the negative implications of maternal mortality. I wanted to compel my general audience to care about the issue and stay informed. Thus, I included a list of resources to advocate, volunteer, and stay engaged.
 
 ## Presentation Focus
 - Since we only have a minute to present, I want to ensure the key sections of my story are communicated.
