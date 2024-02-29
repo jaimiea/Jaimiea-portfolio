@@ -7,9 +7,9 @@ This is my public portfolio for Telling Stories with Data at CMU!
 **Name:** Jaimie An\
 **Pronouns:** She/her/hers\
 **Current Program:** MS Public Policy and Management\
-**Areas of Interest:** Policy, Public Health, health outcomes and accessibility, harm reduction, prison recidivism\
+**Areas of Interest:** Policy, Public Health, Health Outcomes and Accessibility, Harm Reduction, Health IT\
 **Hometown:** Southern California\
-**Hobbies:** Binging TV, Eating, Traveling, Pottery
+**Hobbies:** Binging TV, Eating, Traveling
 
 # What I hope to learn
 I'm excited to practice storytelling techniques to create and interpret data visualizations. My goal is to explore color theory and apply these concepts to produce compelling data presentations for healthcare and policy organizations. Ultimately, I hope to challenge myself throughout this course, acquire new design skills, and present data in a way that is accessible to a wide range of audiences.
