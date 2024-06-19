@@ -6,7 +6,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 # About Me  
 **Name:** Jaimie An\
 **Current Program:** MS Public Policy and Management- Health Policy\
-**Focus Area:** Policy, Public Health, Health Outcomes and Accessibility, Health IT\
+**Focus Areas:** Policy, Public Health, Health Outcomes and Accessibility, Health IT\
 **Hometown:** Southern California\
 **Hobbies/Interests:** Learning to cook Korean food, long-distance drives, history podcasts\ 
 
